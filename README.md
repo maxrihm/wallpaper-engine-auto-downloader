@@ -13,10 +13,11 @@ The program checks the popular tab and recommended tab of Wallpaper Engine for n
 ### How to Use
 To use this program, you will need to have Python 3 installed on your computer. Once you have Python 3 installed, you can install the necessary libraries using pip. Here are the steps to get started:
 
-Clone this repository to your local machine
-Open a terminal window in the root directory of the repository
-Install the required libraries using pip: pip install -r requirements.txt
-Run the program: python main.py
+1. Clone this repository to your local machine
+2. Open a terminal window in the root directory of the repository
+3. Install the required libraries using pip: `pip install -r requirements.txt`
+4. Run the program: `python main.py`
+
 The program will start running and will automatically download new wallpapers on a daily basis.
 
 ### Disclaimer
