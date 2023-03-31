@@ -15,7 +15,7 @@ To use this program, you will need to have Python 3 installed on your computer. 
 
 1. Clone this repository to your local machine
 2. Open a terminal window in the root directory of the repository
-3. Install the required libraries using pip: `pip install -r requirements.txt`
+3. Install the required libraries using your preferred method
 4. Run the program: `python main.py`
 
 The program will start running and will automatically download new wallpapers on a daily basis.
